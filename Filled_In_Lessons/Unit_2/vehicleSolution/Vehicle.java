@@ -1,4 +1,4 @@
-package Filled_In_Lessons.Unit_2.Vehicle;
+package Filled_In_Lessons.Unit_2.vehicleSolution;
 
 public class Vehicle {
     public int numWheels;

@@ -1,16 +1,15 @@
-package Unit_1_Notes.appofbasics2;
+package Unit_1_Notes.appofbasics2notes;
 
-public class whileloops {
+public class whileloopsnotes {
     public static void main(String[] args) {
-        int speedLimit = 50;
-        int speed = 60;
+        //Set the variable "speedLimit" to equal 50
 
-        while (speed > speedLimit) {
-            System.out.println(speed + ": SLOW DOWN!");
-            speed -= 1;
-        }
+        //Set the variable "speed" to equal 60
 
-        System.out.println(speed);
+        //Create a while loop the prints "SLOW DOWN" when the speed is less than the speed limit.
+        //Continue iterating through the loop, going down 1 km each time, until the speed reachs the speed limit
+
+        //Print the speed variable
 
     }
 }

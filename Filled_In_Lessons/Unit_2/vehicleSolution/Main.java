@@ -1,4 +1,4 @@
-package Filled_In_Lessons.Unit_2.vehicleSolutionn;
+package Filled_In_Lessons.Unit_2.vehicleSolution;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,8 +10,8 @@ public class Main {
         Vehicle vehicle2 = new Vehicle(4, "red", "Oakville", 20);
         System.out.println(vehicle2.colour);
 
-        Car car = new Car(4, 0, 10);
+        Car1 car = new Car(4, 0, 10);
         car.setMileage();
-        System.out.println(car.mileage);
+        System.out.println(car.mileage1);
     }
 }

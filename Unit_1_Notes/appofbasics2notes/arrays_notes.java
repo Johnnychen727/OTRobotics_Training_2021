@@ -1,6 +1,6 @@
-package Unit_1_Notes.appofbasics2;
+package Unit_1_Notes.appofbasics2notes;
 
-public class arrays {
+public class arrays_notes {
     
     public static void main(String[] args){
        

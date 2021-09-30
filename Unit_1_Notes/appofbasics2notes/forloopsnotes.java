@@ -1,20 +1,20 @@
-package Unit_1_Notes.appofbasics2;
+package Unit_1_Notes.appofbasics2notes;
 
-public class forloops {
+public class forloopsnotes {
     public static void main(String[] args) {
+        
         System.out.println("For loop:");
         
-        for (int x = 10; x > 0; x -= 1) {
-            System.out.println(x);
-        }
+        //create a for loop that interates from 10 to 0 and prints the outcome
+
 
         System.out.println("While loop:");
         
-        int x = 10;
+        //declare a variable named x witht the value 10
+
+        //Create a while loop that iterates from 10 and prints every number
+
+
         
-        while (x > 0) {
-            System.out.println(x);
-            x -= 1;
-        } 
     }
 }

@@ -1,6 +1,6 @@
 package Unit_1_Notes;
 
-public class basics {
+public class app_of_basics{
     public static void main(String[] args) {
 
         // Declaring variables: type name = value;

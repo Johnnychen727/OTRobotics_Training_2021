@@ -1,4 +1,4 @@
-package Filled_In_Lessons.Unit_1.appofbasics2;
+package Unit_1_Notes.appofbasics2;
 
 public class whileloops {
     public static void main(String[] args) {

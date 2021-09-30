@@ -1,4 +1,4 @@
-package Unit_1;
+package Filled_In_Lessons.Unit_1;
 
 public class appofbasics1 {
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ public class appofbasics1 {
         String name = "your name";
         int length = name.length();
 
-        System.out.println("The length of your name is" + length + "letters.");
+        System.out.println("The length of your name is " + length + "letters.");
     }
 
 }

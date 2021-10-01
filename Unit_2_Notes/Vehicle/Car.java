@@ -1,6 +1,7 @@
 package Unit_2_Notes.Vehicle;
 
 public class Car extends Vehicle{
+    
     int mileage;
     int distanceThisSession;
 

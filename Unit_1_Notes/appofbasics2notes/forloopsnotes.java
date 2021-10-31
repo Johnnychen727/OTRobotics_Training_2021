@@ -5,14 +5,14 @@ public class forloopsnotes {
         
         System.out.println("For loop:");
         
-        //create a for loop that interates from 10 to 0 and prints the outcome
+        //create a for loop that iterates from 10 to 1 and prints the outcome
 
 
         System.out.println("While loop:");
         
         //declare a variable named x witht the value 10
 
-        //Create a while loop that iterates from 10 and prints every number
+        //Create a while loop that iterates from 10 to 1 and prints every number
 
 
         

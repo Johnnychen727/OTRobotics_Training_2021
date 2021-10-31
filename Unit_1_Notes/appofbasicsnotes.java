@@ -10,7 +10,7 @@ public class appofbasicsnotes{
         
 
         //Print out the perimeter of the triangle
-
+        //System.out.println("The perimeter of the triangle is: " + perimeter + " units");
 
         /* Comparing side lengths x and y using if/else statements:
             if (condition) {
@@ -23,10 +23,12 @@ public class appofbasicsnotes{
 
         //Save a string variable as your name
 
-
+        
         //Use the .length method to find the length of your name
 
         //Print the length of your name
+
+        //System.out.println("The length of your name is " + length + " letters.");
         
     }
 

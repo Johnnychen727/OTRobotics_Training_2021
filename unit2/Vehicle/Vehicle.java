@@ -1,4 +1,4 @@
-//package Unit_2_Notes;
+package unit2.Vehicle;
 
 //create public class named vehicle
 

@@ -1,4 +1,4 @@
-package Unit_1_Notes;
+package unit1;
 
 public class appofbasicsnotes{
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//package Unit_2_Notes;
+package unit2.Vehicle;
 
 //Create a public class named Car that extends Vehicle class
 public class Car extends Vehicle{

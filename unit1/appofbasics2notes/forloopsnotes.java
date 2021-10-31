@@ -1,4 +1,4 @@
-package Unit_1_Notes.appofbasics2notes;
+package unit1.appofbasics2notes;
 
 public class forloopsnotes {
     public static void main(String[] args) {

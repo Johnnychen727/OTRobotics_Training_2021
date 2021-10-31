@@ -6,8 +6,8 @@ public class whileloopsnotes {
 
         //Set the variable "speed" to equal 60
 
-        //Create a while loop the prints "SLOW DOWN" when the speed is less than the speed limit.
-        //Continue iterating through the loop, going down 1 km each time, until the speed reachs the speed limit
+        //Create a while loop the prints "SLOW DOWN" when the speed is greater than the speed limit.
+        //Continue iterating through the loop, going down 1 km each time, until the speed reaches the speed limit
 
         //Print the speed variable
 

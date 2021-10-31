@@ -1,7 +1,7 @@
 package unit2.Vehicle;
 
 //Create a public class named Car that extends Vehicle class
-public class Car extends Vehicle{
+//public class Car extends Vehicle{
     
     //declar integer variables mileage and distanceThisSession
     
@@ -23,4 +23,4 @@ public class Car extends Vehicle{
         //mileage += distanceThisSession;
     
 
-}
+//}

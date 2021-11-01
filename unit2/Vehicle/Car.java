@@ -3,7 +3,7 @@ package unit2.Vehicle;
 //Create a public class named Car that extends Vehicle class
 //public class Car extends Vehicle{
     
-    //declar integer variables mileage and distanceThisSession
+    //declare integer variables mileage and distanceThisSession
     
 
     // Create Car method with parameters :numWheels (int), mileage (int), and distanceThisSession

@@ -5,7 +5,7 @@ public class arrays_notes {
     public static void main(String[] args){
        
         // Define an array named food that contains 4 elements
-        
+        lsdjfkdsjksl
         // To define all elements in array: Type[] name = {item1, ..., item4};
         
         /* To define elements in array one at a time: 
